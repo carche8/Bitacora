@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application. Bitácora</string>
+    <string name="et1">Campo para recoger datos</string>
+    <string name="btn">Botón para guardar datos</string>
+</resources>
